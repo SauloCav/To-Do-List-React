@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple to-do list application created with React. It allows users to manage their tasks effectively. You can add new tasks, mark them as completed, and remove them when you're done. This README provides information on how to set up, run, and customize the application.
+This is a simple to-do list application created with React. It allows users to manage their tasks effectively. You can add new tasks, mark them as completed, and remove them when you're done.
 
 ## Project Structure
 
