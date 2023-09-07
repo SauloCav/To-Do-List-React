@@ -1,4 +1,3 @@
-// src/components/TodoList.tsx
 import React, { useState } from 'react';
 import '../Styles/TodoList.css';
 import TodoItem from './TodoItem';

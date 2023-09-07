@@ -1,5 +1,6 @@
-// src/components/TodoItem.tsx
 import React from 'react';
+import '../Styles/TodoItem.css';
+
 
 interface TodoItemProps {
   task: string;
