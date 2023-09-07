@@ -1,0 +1,27 @@
+/* src/styles/TodoItem.css */
+.todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .delete-button {
+    background-color: #ff3b3b;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 6px 10px;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+  
+  .delete-button:hover {
+    background-color: #cc0000;
+  }
+  
