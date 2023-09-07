@@ -19,8 +19,6 @@ The project structure is organized as follows:
 
 - **Add Tasks**: You can add new tasks to the list by entering a task description and clicking the "Add" button.
 
-- **Mark as Completed**: Click on a task to mark it as completed. A checkmark will appear next to the completed task.
-
 - **Remove Tasks**: Remove tasks from the list by clicking the "Delete" button next to each task.
 
 ## Prints
