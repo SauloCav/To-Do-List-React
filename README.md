@@ -25,7 +25,7 @@ The project structure is organized as follows:
 
 ## Prints
 <p align="center">
-  <img src="img/01.png" width="240" />
+  <img src="img/01.png" />
 </p>
 
 ## Prerequisites
